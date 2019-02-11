@@ -1,4 +1,4 @@
-The code is on github at the following link: https://github.gatech.edu/mpandiri3/4641Projects/tree/master/Project%201
+The code is on github at the following link: https://github.com/mukundSai/4641Projects/tree/master/Project%201
 
 There are two folders for each dataset and each folder has the code and data for the specific dataset
 
