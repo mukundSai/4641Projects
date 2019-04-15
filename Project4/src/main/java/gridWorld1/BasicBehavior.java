@@ -232,8 +232,8 @@ public class BasicBehavior {
         String outputPath = "output/"; //directory to record results
 
         //we will call planning and learning algorithms here
-        //example.policyIterationExample(outputPath);
-        //example.valueIterationExample(outputPath);
+        example.policyIterationExample(outputPath);
+        example.valueIterationExample(outputPath);
         example.QLearningExample(outputPath);
 
         //run the visualizer
